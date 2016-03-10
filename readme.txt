@@ -1,3 +1,6 @@
+20160309 Alvin Sim
+I too have been using w2box for a long time. The fork is due to the current state of non-maintenance, and with PHP7 (actually 5.3) deprecating some functions (ereg()), which is now broken. This is the first fix I will be committing in shortly.
+
 20110626 Andrei Neculau
 I have been using w2box for small projects for 2-3 years now. Thought the least I can do as a thank-you-w2box! is release the project back into the wild (including my small fixes & additions), as Clement Beffa has moved away from the project. Enjoy & fork away!
 
@@ -16,8 +19,8 @@ w2box is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 
 http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 You are free:
-* to Share — to copy, distribute and transmit the work
-* to Remix — to adapt the work
+* to Share â€” to copy, distribute and transmit the work
+* to Remix â€” to adapt the work
 Under the following conditions:
 * Attribution. You must attribute the work in the manner specified by the author or
 licensor (but not in any way that suggests that they endorse you or your use of the work).
